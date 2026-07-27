@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.accelerate/
+__pycache__/
+*.pyc
+*.pyo
+
+# 原始数据（大文件）
+正式数据/
+*.tif
+*高程数据.csv
+pythonProject/附件1/
+
+# 临时文件
+*.tmp
+.DS_Store
+Thumbs.db
